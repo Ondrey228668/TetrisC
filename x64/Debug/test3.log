@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\andre\source\repos\test3\test3\main.cpp(41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\andre\source\repos\test3\test3\main.cpp(65): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\andre\source\repos\test3\test3\main.cpp(99): warning C4305: =: усечение из "double" в "float"
+c:\users\andre\source\repos\test3\test3\main.cpp(170): warning C4305: =: усечение из "double" в "float"
+c:\users\andre\source\repos\test3\test3\main.cpp(182): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andre\source\repos\test3\test3\main.cpp(193): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  test3.vcxproj -> C:\Users\andre\source\repos\test3\x64\Debug\test3.exe
